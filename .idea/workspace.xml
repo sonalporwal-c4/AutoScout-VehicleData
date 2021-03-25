@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="COMMAND_LINE_OPTIONS" value="-Pdisable-performance-plugin" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5084521d-ea2c-449b-a927-a127e8fb5b3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/circle_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/vehicle.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/vehicle.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/data/vehicle.data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/data/vehicle.data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/android/task/vehicle/adapter/VehicleListAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/android/task/vehicle/adapter/VehicleListAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/notes_error_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/notes_error_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/vehicle_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/vehicle_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RF8NA1BJ6NY]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1pye1wkcOzdxNPm8spHh6BanjSx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_g980f-RF8NA1BJ6NY" />
+    <property name="DEBUGGABLE_PROCESS" value="com.android.hometask.vehicle" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="RF8NA1BJ6NY" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-25T18:29:35.367Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.android.hometask.data" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.android.task.vehicle.views" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.android.task.vehicle.viewModel" />
+      <recent name="com.android.task.domain.interactors" />
+      <recent name="com.android.task.vehicle" />
+      <recent name="com.android.task.vehicle.adapter" />
+      <recent name="com.android.task.vehicle.di" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/test/java/com/android/task/vehicle" />
+      <recent name="$PROJECT_DIR$/data/src/test/java/com/android/task/data" />
+      <recent name="$PROJECT_DIR$/domain/src/main/java/com/android/task/domain/model" />
+      <recent name="$PROJECT_DIR$/data/src/main/java/com/android/task/data/dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="HomeSearchViewModelTest (1)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vehicle.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.android.task.vehicle.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.android.task.vehicle.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.android.task.vehicle.viewmodel.HomeSearchViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeSearchViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vehicle.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.android.task.vehicle.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.android.task.vehicle.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.android.task.vehicle.viewmodel.HomeSearchViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginUseCaseTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vehicle.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.android.task.vehicle.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.android.task.vehicle.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.android.task.vehicle.viewmodel.LoginUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vehicle.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.android.task.vehicle.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.android.task.vehicle.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.android.task.vehicle.viewmodel.VehicleViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleViewModelTest.test_get_vehicles_use_case_returns_expected_value" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vehicle.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.android.task.vehicle.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.android.task.vehicle.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.android.task.vehicle.viewmodel.VehicleViewModelTest" />
+      <option name="METHOD_NAME" value="test_get_vehicles_use_case_returns_expected_value" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="vehicle.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.VehicleViewModelTest" />
+        <item itemvalue="Android JUnit.HomeSearchViewModelTest (1)" />
+        <item itemvalue="Android JUnit.HomeSearchViewModelTest" />
+        <item itemvalue="Android JUnit.VehicleViewModelTest.test_get_vehicles_use_case_returns_expected_value" />
+        <item itemvalue="Android JUnit.LoginUseCaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5084521d-ea2c-449b-a927-a127e8fb5b3a" name="Default Changelist" comment="" />
+      <created>1616159545697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616159545697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1480" height="775" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1616689430706">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="100" y="123" width="1480" height="775" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.975@0.23.1680.975" timestamp="1616689430706" />
+    <state x="555" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1616629085098">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="555" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1680.975@0.23.1680.975" timestamp="1616453227317" />
+    <state x="555" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1680.976@0.23.1680.976" timestamp="1616629085098" />
+    <state x="354" y="427" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616448832823">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="354" y="427" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.975@0.23.1680.975" timestamp="1616448832823" />
+    <state x="563" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1616448715429">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="563" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1680.975@0.23.1680.975" timestamp="1616448715429" />
+    <state x="439" y="23" width="802" height="975" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616689752029">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="439" y="23" width="802" height="975" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.975@0.23.1680.975" timestamp="1616689752029" />
+    <state x="512" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616681130021">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="512" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.975@0.23.1680.975" timestamp="1616681130021" />
+    <state x="509" y="252" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1616681084761">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="509" y="252" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1616681084761" />
+    <state x="458" y="330" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616453425278">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="458" y="330" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.975@0.23.1680.975" timestamp="1616453425278" />
+    <state x="572" y="244" key="AndroidProcessChooserDialog" timestamp="1616629874676">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="572" y="244" key="AndroidProcessChooserDialog/0.23.1680.975@0.23.1680.975" timestamp="1616629874676" />
+    <state width="1620" height="238" key="GridCell.Tab.0.bottom" timestamp="1616692323538">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1616692323538" />
+    <state width="1620" height="238" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1616623307487" />
+    <state width="1620" height="238" key="GridCell.Tab.0.center" timestamp="1616692323537">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1616692323537" />
+    <state width="1620" height="238" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1616623307486" />
+    <state width="1620" height="238" key="GridCell.Tab.0.left" timestamp="1616692323537">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1616692323537" />
+    <state width="1620" height="238" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1616623307486" />
+    <state width="1620" height="238" key="GridCell.Tab.0.right" timestamp="1616692323538">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1616692323538" />
+    <state width="1620" height="238" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1616623307486" />
+    <state width="1620" height="238" key="GridCell.Tab.1.bottom" timestamp="1616629940736">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.1.bottom/0.23.1680.975@0.23.1680.975" timestamp="1616629940736" />
+    <state width="1620" height="238" key="GridCell.Tab.1.bottom/0.23.1680.976@0.23.1680.976" timestamp="1616623307487" />
+    <state width="1620" height="238" key="GridCell.Tab.1.center" timestamp="1616629940736">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.1.center/0.23.1680.975@0.23.1680.975" timestamp="1616629940736" />
+    <state width="1620" height="238" key="GridCell.Tab.1.center/0.23.1680.976@0.23.1680.976" timestamp="1616623307487" />
+    <state width="1620" height="238" key="GridCell.Tab.1.left" timestamp="1616629940736">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.1.left/0.23.1680.975@0.23.1680.975" timestamp="1616629940736" />
+    <state width="1620" height="238" key="GridCell.Tab.1.left/0.23.1680.976@0.23.1680.976" timestamp="1616623307487" />
+    <state width="1620" height="238" key="GridCell.Tab.1.right" timestamp="1616629940736">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="238" key="GridCell.Tab.1.right/0.23.1680.975@0.23.1680.975" timestamp="1616629940736" />
+    <state width="1620" height="238" key="GridCell.Tab.1.right/0.23.1680.976@0.23.1680.976" timestamp="1616623307487" />
+    <state x="201" y="23" key="ScreenshotViewer.Dimensions" timestamp="1616691565783">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="201" y="23" key="ScreenshotViewer.Dimensions/0.23.1680.975@0.23.1680.975" timestamp="1616691565783" />
+    <state x="459" y="196" width="1000" height="628" key="find.popup" timestamp="1616692105751">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="459" y="196" width="1000" height="628" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1616692105751" />
+    <state x="421" y="231" key="run.anything.popup" timestamp="1616691468337">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="421" y="231" key="run.anything.popup/0.23.1680.975@0.23.1680.975" timestamp="1616691468337" />
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1616542205441">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="421" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1616542205441" />
+  </component>
+</project>
